@@ -1,0 +1,59 @@
+.nav{
+  
+  max-width: 296px;
+  min-height: 100vh;
+  background: #ecf5ed;
+}
+.nav a{
+
+display: block;
+text-decoration: none;
+color:#111712;
+}
+
+.nav a:hover{
+  background: rgb(153, 149, 149);  
+}
+.mb-s{
+  margin-bottom: 29px;
+}
+
+
+.user img{
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
+
+.f-s-s{
+  font-size: 14px;
+}
+
+
+
+.f-s-l{
+  font-size: 24px;
+}
+.l-h-s{
+  line-height: 33px;
+}
+
+.m-t-s{
+  margin-top: 6px;
+ }
+
+.m-t-l{
+  margin-top: 12px;
+}
+
+.d-a-block{
+  display: block;
+}
+
+.m-r-s{
+  margin-right: 47px;
+}
+.m-r-l{
+  margin-right: 24px;
+}
+
